@@ -1,7 +1,6 @@
 /**
  * 2. 자료형
  */
-
 fun main(args: Array<String>){
 
 //    1. Numbers
